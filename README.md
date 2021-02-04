@@ -1,4 +1,4 @@
-🤠 hola soy Fernando desarrollador web, me gusta la seguridad informática🏜️🦊
+🤠 hola soy Fernando, soy un chico apasionado por la tecnología, futuro ingeniería de software 🏜️🦊
 <br>
 <img src="f.gif"/>
 
