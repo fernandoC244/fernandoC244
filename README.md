@@ -1,4 +1,4 @@
- hola soy Fernando desarrollador web, me gusta la seguridad informática
+🤠 hola soy Fernando desarrollador web, me gusta la seguridad informática🏜️🦊
 <br>
 <img src="f.gif"/>
 
@@ -7,7 +7,7 @@
 
 
 
-<p>mis habilidades</p>
+<p>🚀mis habilidades</p>
 <pre>
  HTML5, CSS3 (PostCSS/SASS) ⭐️⭐️⭐️⭐️⭐️
 React.js  CSS, Bootstrap    ⭐️⭐️⭐️⭐️⭐️
