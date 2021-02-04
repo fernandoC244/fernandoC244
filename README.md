@@ -6,6 +6,8 @@
 
 
 
+
+<p>mis habilidades</p>
 <pre>
  HTML5, CSS3 (PostCSS/SASS) ⭐️⭐️⭐️⭐️⭐️
 React.js  CSS, Bootstrap    ⭐️⭐️⭐️⭐️⭐️
