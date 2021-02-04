@@ -14,7 +14,9 @@ React.js  CSS, Bootstrap    ⭐️⭐️⭐️⭐️⭐️
   Vue.js JavaScript, jQuery ⭐️⭐️⭐️⭐️⭐️
 Python, dart, flutter, linux   ⭐️⭐️⭐️⭐️
 </pre>
-
-
-herramientas 
- visual studio code, figma, github, android studio
+<br>
+<p>herramientas</p>
+ <pre>visual studio code
+ figma
+ github
+ android studio</pre>
