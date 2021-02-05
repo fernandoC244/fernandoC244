@@ -23,4 +23,4 @@ Python, dart, flutter, linux   ⭐️⭐️⭐️⭐️
 
 
 
-<a href="https://instagram.com/fernandoramirez.codes?igshid=on2nbhseuhix"> <img title = "Instagram" src = "https: // img. shields.io/badge/instagram-%23E4405F.  svg? & style = for-the-badge & logo = instagram & logoColor = white "> </ a>
+
