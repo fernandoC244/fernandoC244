@@ -1,4 +1,4 @@
-🤠 hola soy Fernando, soy un chico apasionado por la tecnología, futuro ingeniería de software 🏜️🦊
+🤠 hola soy Fernando, soy un chico apasionado por la tecnología 🏜️🦊
 <br>
 <img src="f.gif"/>
 
