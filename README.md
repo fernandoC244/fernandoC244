@@ -1,4 +1,4 @@
-🤠 hola soy Fernando, soy un chico apasionado por la tecnología 🏜️🦊
+🤠 hola soy Fernando, soy un chico apacionado por la tecnología 🏜️🦊
 <br>
 <img src="f.gif"/>
 
